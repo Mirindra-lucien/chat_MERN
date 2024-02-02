@@ -1,0 +1,6 @@
+{
+    "watch": "./server",
+    "verbose": false,
+    "ext": ".js",
+    "exec": "node ./server/index.js"
+}
